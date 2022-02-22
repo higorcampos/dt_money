@@ -1,2 +1,3 @@
 # dt_money
-React com Context &amp; Hooks
+yarn install
+yarn start
